@@ -7,6 +7,9 @@ A simple digital cookbook for storing and organizing your favorite recipes.
 - Search by category or ingredient
 - Easy to use interface
 
+## Recipes
+- [Classic Pancakes](recipes/pancakes.md)
+
 ## Getting Started
 1. Clone the repository
 2. Add your recipes
