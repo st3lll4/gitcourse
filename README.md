@@ -8,7 +8,7 @@ A simple digital cookbook for storing and organizing your favorite recipes. Has 
 - Easy to use interface
 
 ## Recipes
-- [Classic Pancakes](recipes/pancakes.md) noo not the pancakes!
+- [Classic Pancakes](recipes/pancakes.md) + ones with greek yoghurt
 
 ## Getting Started
 1. Clone the repository
