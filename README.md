@@ -9,7 +9,7 @@ A simple digital cookbook for storing and organizing your favorite recipes. Has 
 
 ## Recipes
 - [Classic Pancakes](recipes/pancakes.md)
-- [Greek Yogurt Pancakes](recipes/greek_yogurt_pancakes.md) and soup!
+- [Greek Yogurt Pancakes](recipes/greek_yogurt_pancakes.md) and soup! not anymore ig!
 
 ## Getting Started
 1. Clone the repository
