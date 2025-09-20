@@ -1,6 +1,6 @@
 # Recipe Book
 
-A simple digital cookbook for storing and organizing your favorite recipes.
+A simple digital cookbook for storing and organizing your favorite recipes. No pancakes here rn!
 
 ## Features
 - Store recipes with ingredients and instructions
