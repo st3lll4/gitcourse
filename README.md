@@ -9,7 +9,8 @@ A simple digital cookbook for storing and organizing your favorite recipes. Has 
 
 ## Recipes
 - [Classic Pancakes](recipes/pancakes.md)
-- [Greek Yogurt Pancakes](recipes/greek_yogurt_pancakes.md) and soup! as of now??_?"+2"
+- [Greek Yogurt Pancakes](recipes/greek_yogurt_pancakes.md)
+- [Simple Tomato Soup](recipes/tomato_soup.md) 
 
 ## Getting Started
 1. Clone the repository
