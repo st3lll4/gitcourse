@@ -3,7 +3,7 @@
 ## Ingredients
 - 2 packages instant ramen noodles
 - 3 tablespoons gochujang (Korean red pepper paste)
-- 2 tablespoons soy sauce
+- 3 tablespoons soy sauce
 - 1/2 cup mozzarella cheese, shredded
 - 2 green onions, chopped
 
